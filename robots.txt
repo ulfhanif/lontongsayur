@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: 
+
+Host: http://ftp.arunyadav.com/
+Sitemap: http://ftp.arunyadav.com/sitemap.xml
